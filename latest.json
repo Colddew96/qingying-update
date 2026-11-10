@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
-  "versionName": "4.1.7",
-  "apkUrl": "",
-  "sha256": "",
-  "size": 0,
-  "note": "当前已是最新版本。发新版时：把 APK 放进 apk/ 目录，再把这里的 versionCode、versionName、apkUrl、sha256、size 改成新包的信息。"
+  "versionCode": 68,
+  "versionName": "4.2.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.0/apk/qingying-4.2.0.apk",
+  "sha256": "50006f5e1e7df6d9b5474bb7e009d3c2e87a7fb55d3c4b654a1c4969b0d6e41c",
+  "size": 373593,
+  "note": "播放页锁定图标换新；更新包改为包内下载+校验后安装；安卓 4 电视隐藏更新入口。"
 }
