@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "4.1.8",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@main/apk/qingying-4.1.8.apk",
+  "versionCode": 67,
+  "versionName": "4.1.7",
+  "apkUrl": "",
   "sha256": "",
   "size": 0,
-  "note": "演练用：验证发现新版时的提示，随后恢复为 4.1.7。"
+  "note": "当前已是最新版本。发新版时：把 APK 放进 apk/ 目录，再把这里的 versionCode、versionName、apkUrl、sha256、size 改成新包的信息。"
 }
