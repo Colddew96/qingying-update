@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "4.2.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.0/apk/qingying-4.2.0.apk",
-  "sha256": "50006f5e1e7df6d9b5474bb7e009d3c2e87a7fb55d3c4b654a1c4969b0d6e41c",
+  "versionCode": 69,
+  "versionName": "4.2.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.1/apk/qingying-4.2.1.apk",
+  "sha256": "9d41d164d2b2a7188113b944d91a7ea6b6c6cfc5b6cacf272f582eab6254fd8a",
   "size": 373593,
-  "note": "播放页锁定图标换新；更新包改为包内下载+校验后安装；安卓 4 电视隐藏更新入口。"
+  "note": "播放页锁按钮改为纯图标：开口＝未锁定、闭合＝已锁定；锁定后同样禁用右侧长按菜单与滑动调进度；修复直播页刚打开会露出锁图标。"
 }
