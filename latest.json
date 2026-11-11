@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "4.2.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.3/apk/qingying-4.2.3.apk",
-  "sha256": "47b86f2181bc301304aaad68d061fa69b88e41ec72f82076e041fdc6b960d474",
-  "size": 373593,
-  "note": "· 优化更新逻辑"
+  "versionCode": 72,
+  "versionName": "4.3.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.3.0/apk/qingying-4.3.0.apk",
+  "sha256": "38d90e4c032b44bfc3cbdb32fe147c8f7b92078a5a7c5f99b73ea0e02c7bbef2",
+  "size": 377689,
+  "note": "· 修复跳过片头失效\n· 提升频道焦点稳定性"
 }
