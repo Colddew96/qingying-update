@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "4.2.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.2/apk/qingying-4.2.2.apk",
-  "sha256": "45fa9427a97b76986e23f1f56211412c21aa5a27aee36f31301dfb8f1227bbe9",
+  "versionCode": 71,
+  "versionName": "4.2.3",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.2.3/apk/qingying-4.2.3.apk",
+  "sha256": "47b86f2181bc301304aaad68d061fa69b88e41ec72f82076e041fdc6b960d474",
   "size": 373593,
-  "note": "· 版本页内直接检查更新，结果显示在弹窗里\n· 更新检查改多线路同时查询，出结果更快"
+  "note": "· 优化更新逻辑"
 }
