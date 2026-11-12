@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "4.3.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.3.0/apk/qingying-4.3.0.apk",
-  "sha256": "38d90e4c032b44bfc3cbdb32fe147c8f7b92078a5a7c5f99b73ea0e02c7bbef2",
+  "versionCode": 73,
+  "versionName": "4.4.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.4.0/apk/qingying-4.4.0.apk",
+  "sha256": "9db880325ee13b24d3a035129624aedd5326f71f01bc8bd3893ca37f1a87527d",
   "size": 377689,
-  "note": "· 修复跳过片头失效\n· 提升频道焦点稳定性"
+  "note": "· 修复手机频道列表不能滑动\n· 直播线路换更快出口，起播更快"
 }
