@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "4.4.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.4.0/apk/qingying-4.4.0.apk",
-  "sha256": "9db880325ee13b24d3a035129624aedd5326f71f01bc8bd3893ca37f1a87527d",
-  "size": 377689,
-  "note": "· 修复手机频道列表不能滑动\n· 直播线路换更快出口，起播更快"
+  "versionCode": 74,
+  "versionName": "4.4.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.4.1/apk/qingying-4.4.1.apk",
+  "sha256": "dd4b0d6a88d8ade87d8d97f0c96edf8ce99f7f431b99c976767f4be069f12da7",
+  "size": 381785,
+  "note": "· 提升直播播放稳定性"
 }
