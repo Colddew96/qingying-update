@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "4.4.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.4.1/apk/qingying-4.4.1.apk",
-  "sha256": "dd4b0d6a88d8ade87d8d97f0c96edf8ce99f7f431b99c976767f4be069f12da7",
-  "size": 381785,
-  "note": "· 提升直播播放稳定性"
+  "versionCode": 75,
+  "versionName": "4.5.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.5.0/apk/qingying-4.5.0.apk",
+  "sha256": "1d7ab036828bc825b0d8dc329fbd328b1029f4eae368489aaeb5e8024fa8a34e",
+  "size": 385881,
+  "note": "· 修复分类海报显示异常与模糊\n· 提升海报加载速度"
 }
