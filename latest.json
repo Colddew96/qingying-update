@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "4.5.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.5.0/apk/qingying-4.5.0.apk",
-  "sha256": "1d7ab036828bc825b0d8dc329fbd328b1029f4eae368489aaeb5e8024fa8a34e",
+  "versionCode": 76,
+  "versionName": "4.6.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v4.6.0/apk/qingying-4.6.0.apk",
+  "sha256": "003b6d63bb1082e70ebf919565274b92b70d7a135416d97c26c38a165788dc7e",
   "size": 385881,
-  "note": "· 修复分类海报显示异常与模糊\n· 提升海报加载速度"
+  "note": "· 修复直播起播时卡住退出的问题\n· 提升直播线路自动切换的稳定性"
 }
