@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "5.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v5.0/apk/qingying-5.0.apk",
-  "sha256": "3df4ea6be5f93781f14fd22ed48aa4f86da4033aad5acbf899b9db7def259500",
-  "size": 389977,
-  "note": "· 体验优化与问题修复\n· 推荐卡片更干净"
+  "versionCode": 78,
+  "versionName": "5.0.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v5.0.1/apk/qingying-5.0.1.apk",
+  "sha256": "db6548a897b5733cf374bead6517fa81a9da1983541134a6ae7a65d8a0a9eed8",
+  "size": 394138,
+  "note": "· 体验优化与问题修复\n· 推荐卡片与直播线路更新"
 }
