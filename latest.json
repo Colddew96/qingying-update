@@ -1,8 +1,8 @@
 {
-  "versionCode": 79,
-  "versionName": "5.1.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v5.1.0/apk/qingying-5.1.0.apk",
-  "sha256": "14569391ea865a1cc7eb615be925061a932fba2f3b392af590f25a1064a5382f",
+  "versionCode": 80,
+  "versionName": "5.1.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Colddew96/qingying-update@v5.1.1/apk/qingying-5.1.1.apk",
+  "sha256": "42e5ef6d8fea547b54f9ea67cdd1f5afbf8a5d09175bc3b9227980a8543cc440",
   "size": 398234,
-  "note": "· 支持直播线路在线更新\n· 体验优化与问题修复"
+  "note": "· 修复直播无声，更新直播线路\n· 优化扫码添加与搜索体验"
 }
